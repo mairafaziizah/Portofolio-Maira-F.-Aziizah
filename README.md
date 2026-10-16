@@ -1,22 +1,13 @@
-### Halo, saya [Nama Kamu]! 👋
+# Hi 👋, I'm Maira F. Aziizah
 
-Seorang Web Developer / Software Engineer yang berfokus pada pengembangan aplikasi web modern.
+### Bachelor of Psychology 
 
-- 🔭 Saat ini sedang mengerjakan project [Nama Project]
-- 🌱 Sedang mendalami teknologi **React, Node.js, dan TypeScript**
-- ⚡ Fun fact: Suka ngopi sambil ngoding di malam hari
+- 👯 I'm looking to collaborate on **Human Resources**
 
----
+- 📫 How to reach me **mairafa.work@gmail.com**
 
-### 🛠️ Tech Stack & Tools
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,nodejs,git,github,vscode)](https://skillicons.dev)
-
----
-
-### 📊 GitHub Stats
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=USERNAME_GITHUB_KAMU&show_icons=true&theme=radical" />
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/mairaziizah/?isSelfProfile=true" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mairaziizah/?isSelfProfile=true" height="30" width="40" /></a>
 </p>
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME_GITHUB_KAMU&layout=compact&theme=radical" />
-</p>
+
